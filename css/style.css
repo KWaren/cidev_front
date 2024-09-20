@@ -80,6 +80,7 @@ font-family: 'PT Sans', sans-serif;
 @import url('jquery.fancybox.min.css');
 @import url('scrollbar.css');
 @import url('hover.css');
+@import url('personalized.css');
 
 @font-face {
   font-family: 'Signature';
@@ -4480,7 +4481,7 @@ img.lazy-image.loaded{
 .main-footer{
 	position:relative;
 	color:#c4c5c7;
-	background-color:#1e2436;
+	background-color:#2c2c2c;
 }
 
 .main-footer .image-layer{
@@ -4548,6 +4549,7 @@ img.lazy-image.loaded{
 	position:relative;
 	margin-top:-10px;
 	margin-bottom:10px;	
+	text-align: center; /*WK*/
 }
 
 .main-footer .logo-widget .text{

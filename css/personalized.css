@@ -1,0 +1,22 @@
+
+.w-section_call{
+    display: flex;
+    justify-content: center;
+     height: 40vh;
+     align-items: center;
+ }
+ .w-call{
+     width: 90vw;
+     height: 25vh;
+
+     background: #faffb5;
+     background: linear-gradient(90deg, #21d3ff, #fffd75);
+     border-radius: 30px;
+     padding: 5vh 03vw;
+     margin: 5vh 0;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+  
+
+ }

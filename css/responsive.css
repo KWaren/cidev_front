@@ -646,6 +646,10 @@
 }
 
 @media only screen and (max-width: 767px){	
+	/* WK */
+	.footer-logo{
+		text-align: start !important;
+	} 
 	.main-header .header-top .top-right{
 		display: none;
 	}
